@@ -4,3 +4,5 @@ Credits:
   Art, programming and implementation: Vasiliy Ulin
  
 Entry page link: https://ldjam.com/events/ludum-dare/39/trindle-armored-defense-1
+
+Source code is on 'master' branch
